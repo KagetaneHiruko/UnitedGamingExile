@@ -2,6 +2,7 @@
 Visit us at https://unitedgaming,eu
 
 # ON CREATION
+Den @Exile Mod in das Serververzeichnis Packen
 Die "Exile Auto Start.bat" editieren
 @ExileServer/extdb-conf.ini editieren (UNTEN)
 
