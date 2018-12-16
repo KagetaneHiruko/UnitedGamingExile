@@ -5808,7 +5808,15 @@ class CfgSettings
 			"Exile_Car_LandRover_Ambulance_Desert",
 			"Exile_Car_Tractor_Red",
 			"Exile_Car_OldTractor_Red",
-			"Exile_Car_Octavius_White"
+			"Exile_Car_Octavius_White",
+			"Fox_RickGrimes",
+			"Fox_Daytona",
+			"Fox_Landrover",
+			"Fox_Landrover2",
+			"fox_R34_Fox",
+			"Fox_Wanderer",
+			"Fox_Truck",
+			"fox_R34_Apocalypse"
 		};
 
 		/**
