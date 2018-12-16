@@ -3148,12 +3148,38 @@ class CfgExileArsenal
 	// FOXCARTEST
 	///////////////////////////////////////////////////////////////////////////////
 	class Fox_RickGrimes 								{ quality = 1; price = 8300; };
-	class Fox_Landrover2 								{ quality = 4; price = 23000; };
-	class fox_R34_Fox	 								{ quality = 4; price = 23000; };
-	class Fox_Wanderer 									{ quality = 4; price = 23000; };
-	class fox_R34_Apocalypse 							{ quality = 4; price = 23000; };
-	class Fox_Truck 									{ quality = 4; price = 23000; };
-	class Fox_Landrover 								{ quality = 4; price = 23000; };
+	class fox_R34_Fox	 								{ quality = 1; price = 23000; };
+	class Fox_Wanderer 									{ quality = 1; price = 23000; };
+	class fox_R34_Apocalypse 							{ quality = 1; price = 23000; };
+	class Fox_Truck 									{ quality = 1; price = 23000; };
+	class Fox_Pickup_Tow 								{ quality = 1; price = 45000; };
+	class Fox_Pickup_Apocalypse 						{ quality = 1; price = 45000; };
+	class Fox_Charger_Apocalypse 						{ quality = 1; price = 45000; };
+	class Fox_Tahoe_Apocalypse 							{ quality = 1; price = 45000; };
+	class Fox_F40 										{ quality = 1; price = 45000; };
+	class Fox_Viper 									{ quality = 1; price = 45000; };
+	class Fox_GNX 										{ quality = 1; price = 45000; };
+	class Fox_Outsider 									{ quality = 1; price = 45000; };
+	class Fox_Landrover2 								{ quality = 1; price = 45000; };
+	class Fox_Landrover 								{ quality = 1; price = 45000; };
+	class Fox_Interceptor 								{ quality = 1; price = 45000; };
+	class Fox_DaytonaStratos 							{ quality = 1; price = 45000; };
+	class Fox_DaytonaGeneral 							{ quality = 1; price = 45000; };
+	class Fox_Daytona 									{ quality = 1; price = 45000; };
+	class Fox_ChallengerBR 								{ quality = 1; price = 45000; };
+	class Fox_ChallengerDev1 							{ quality = 1; price = 45000; };
+	class Fox_ChallengerDev2 							{ quality = 1; price = 45000; };
+	class Fox_ChallengerYB 								{ quality = 1; price = 45000; };
+	class Fox_ChallengerO 								{ quality = 1; price = 45000; };
+	class Fox_ChallengerW 								{ quality = 1; price = 45000; };
+	class Fox_LandCruiserFox 							{ quality = 1; price = 45000; };
+	class Fox_LandCruiser3 								{ quality = 1; price = 45000; };
+	class Fox_LandCruiser2 								{ quality = 1; price = 45000; };
+	class Fox_LandCruiser 								{ quality = 1; price = 45000; };
+	class Fox_Patrol 									{ quality = 1; price = 45000; };
+	class Fox_Patrol2 									{ quality = 1; price = 45000; };
+	class Fox_Patrol3 									{ quality = 1; price = 45000; };
+	class Fox_CobraR_Police 							{ quality = 1; price = 45000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Offroad
