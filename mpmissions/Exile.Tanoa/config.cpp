@@ -3143,17 +3143,6 @@ class CfgExileArsenal
 	// Ifrit
 	///////////////////////////////////////////////////////////////////////////////
 	class Exile_Car_Ifrit 								{ quality = 4; price = 23000; };
-	
-	///////////////////////////////////////////////////////////////////////////////
-	// FOXCARTEST
-	///////////////////////////////////////////////////////////////////////////////
-	class Fox_RickGrimes 								{ quality = 1; price = 8300; };
-	class Fox_Landrover2 								{ quality = 4; price = 23000; };
-	class fox_R34_Fox	 								{ quality = 4; price = 23000; };
-	class Fox_Wanderer 									{ quality = 4; price = 23000; };
-	class fox_R34_Apocalypse 							{ quality = 4; price = 23000; };
-	class Fox_Truck 									{ quality = 4; price = 23000; };
-	class Fox_Landrover 								{ quality = 4; price = 23000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Offroad
@@ -6426,65 +6415,6 @@ class CfgTrading
 };
 class CfgVehicleCustoms
 {
-	
-	///////////////////////////////////////////////////////////////////////////////
-	// FOXCARS
-	///////////////////////////////////////////////////////////////////////////////
-	class Fox_RickGrimes
-	{
-		skins[] =
-		{
-		};
-	};
-	
-	class Fox_Daytona
-	{
-		skins[] =
-		{
-		};
-	};
-	
-	class Fox_Landrover
-	{
-		skins[] =
-		{
-		};
-	};
-	
-	class Fox_Landrover2
-	{
-		skins[] =
-		{
-		};
-	};
-	
-	class fox_R34_Fox
-	{
-		skins[] =
-		{
-		};
-	};
-	
-	class Fox_Wanderer
-	{
-		skins[] =
-		{
-		};
-	};
-	
-	class Fox_Truck
-	{
-		skins[] =
-		{
-		};
-	};
-	
-	class fox_R34_Apocalypse
-	{
-		skins[] =
-		{
-		};
-	};
 	///////////////////////////////////////////////////////////////////////////////
 	// QUAD BIKES
 	///////////////////////////////////////////////////////////////////////////////
