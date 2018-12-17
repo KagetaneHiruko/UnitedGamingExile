@@ -3036,6 +3036,42 @@ class CfgExileArsenal
 	class Exile_Car_Ural_Open_Yellow		{ quality = 2; price = 25000; };
 	class Exile_Car_Ural_Open_Worker		{ quality = 2; price = 25000; };
 	class Exile_Car_Ural_Open_Military		{ quality = 2; price = 25000; };
+	
+	///////////////////////////////////////////////////////////////////////////////
+	// FOXCARS
+	///////////////////////////////////////////////////////////////////////////////
+	class Fox_RickGrimes					{ quality = 1; price = 8000; };
+	class Fox_Landrover						{ quality = 2; price = 11000; };
+	class Fox_Landrover2					{ quality = 2; price = 11000; };
+	class Fox_LandCruiserPolice				{ quality = 2; price = 9000; };
+	class Fox_ChallengerYB					{ quality = 3; price = 9000; };
+	class Fox_ChallengerW					{ quality = 3; price = 9000; };
+	class Fox_ChallengerDev1				{ quality = 3; price = 9000; };
+	class Fox_ChallengerBR					{ quality = 3; price = 9000; };
+	class Fox_ChallengerO					{ quality = 3; price = 9000; };
+	class Fox_LandCruiser2					{ quality = 2; price = 15000; };
+	class Fox_LandCruiser3					{ quality = 2; price = 15000; };
+	class Fox_Tahoe							{ quality = 2; price = 25000; };
+	class Fox_Truck							{ quality = 3; price = 25000; };
+	class Fox_Daytona						{ quality = 3; price = 10000; };
+	class Fox_DaytonaGeneral				{ quality = 3; price = 10000; };
+	class Fox_DaytonaStratos				{ quality = 3; price = 10000; };
+	class Fox_Patrol3						{ quality = 2; price = 15000; };
+	class Fox_Patrol						{ quality = 2; price = 15000; };
+	class Fox_Patrol2						{ quality = 2; price = 25000; };
+	class Fox_Interceptor					{ quality = 3; price = 15000; };
+	class Fox_F40							{ quality = 3; price = 12000; };
+	class Fox_Tahoe_Apocalypse				{ quality = 3; price = 16000; };
+	class Fox_M5TG							{ quality = 3; price = 12000; };
+	class Fox_Pickup_Tow					{ quality = 3; price = 20000; };
+	class Fox_Pickup_6S						{ quality = 3; price = 20000; };
+	class Fox_Pickup_Apocalypse				{ quality = 3; price = 20000; };
+	class Fox_Charger_Apocalypse			{ quality = 3; price = 15000; };
+	class Fox_GNX							{ quality = 2; price = 25000; };
+	class fox_R34_Fox						{ quality = 3; price = 15000; };
+	class fox_R34_Apocalypse				{ quality = 3; price = 15000; };
+	class Fox_Wanderer						{ quality = 3; price = 15000; };
+	class Fox_Fireengine					{ quality = 4; price = 35000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// Ural (Covered)
