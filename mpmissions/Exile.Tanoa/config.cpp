@@ -3372,6 +3372,7 @@ class CfgExileCustomCode
 
 		ExileClient_util_fusRoDah = "myaddon\myfunction.sqf";
 	*/
+	ExileClient_system_lootManager_thread_spawn = "custom\ExileClient_system_lootManager_thread_spawn.sqf"; //loot spawn for heli crashes
 };
 class CfgExileEnvironment
 {
